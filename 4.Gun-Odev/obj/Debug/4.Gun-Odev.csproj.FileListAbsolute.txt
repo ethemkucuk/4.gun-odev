@@ -1,0 +1,8 @@
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\bin\Debug\4.Gun-Odev.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\bin\Debug\4.Gun-Odev.exe
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\bin\Debug\4.Gun-Odev.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\obj\Debug\4.Gun-Odev.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\obj\Debug\4.Gun-Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\obj\Debug\4.Gun-Odev.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\obj\Debug\4.Gun-Odev.exe
+C:\Users\Monster\Desktop\C# Örneklerim\4.Gun-Odev\obj\Debug\4.Gun-Odev.pdb
